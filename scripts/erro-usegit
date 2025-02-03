@@ -1,0 +1,8 @@
+usethis::use_git()
+Error in libgit2::git_index_add_all : 
+  invalid path: 'meu-primeiro-repositorio/'
+  
+usethis::proj_get()
+# C:/Users/CLIENTE/Documents/R/cursoder2
+ 
+ # FELIPE

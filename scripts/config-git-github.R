@@ -86,11 +86,16 @@ git_sitrep()
 # Se tiver como <unset> é pq deu errado!
 
 
+# transformar o rproj em um repositorio do git
+library(usethis)
+
+use_git()
 
 
+# usethis::proj_get()
 
 
-
+use_github()
 
 
 
