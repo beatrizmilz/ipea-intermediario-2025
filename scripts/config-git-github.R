@@ -61,13 +61,12 @@ create_github_token()
 # função para salvar o token criado
 gitcreds::gitcreds_set()
 
-# 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
+# ghp_xxxxxxx
 
 # ? Enter password or token: {COLOCAR O TOKEN!}
 # -> Adding new credentials...
 # -> Removing credentials from cache...
 # -> Done.
-
 
 
 # Reiniciar a sessão do R
